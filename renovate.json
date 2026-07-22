@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "config:best-practices"
+  ],
+  "dependencyDashboard": false
+}
