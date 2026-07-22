@@ -1,7 +1,1 @@
-{
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [],
-  "dependencyDashboard": false,
-  "prCreation": "immediate",
-  "minimumReleaseAge": "0 days"
-}
+{ invalid json
